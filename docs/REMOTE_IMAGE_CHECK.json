@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-11-13T15:35:22.130Z",
+  "results": [
+    {
+      "component": "overview",
+      "url": "https://science.nasa.gov/wp-content/uploads/2024/03/mars-pathfinder-presidential-panorama-lg.jpg?w=2048",
+      "http": 200,
+      "type": "image/jpeg",
+      "ok": true,
+      "note": "HTTP check only, not browser decoding"
+    },
+    {
+      "component": "landing",
+      "url": "https://science.nasa.gov/wp-content/uploads/2024/08/5277460495-c6d046d5a9-o.jpg?w=1536",
+      "http": 200,
+      "type": "image/jpeg",
+      "ok": true,
+      "note": "HTTP check only, not browser decoding"
+    },
+    {
+      "component": "wheels",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/p/i/a/0/PIA01551-1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "http": 200,
+      "type": "image/jpeg",
+      "ok": true,
+      "note": "HTTP check only, not browser decoding"
+    },
+    {
+      "component": "solarPanels",
+      "url": "https://science.nasa.gov/wp-content/uploads/2017/12/pia00621-pathfinder-and-sojourner-with-airbags-deflated.jpg?w=2048",
+      "http": 200,
+      "type": "image/jpeg",
+      "ok": true,
+      "note": "HTTP check only, not browser decoding"
+    },
+    {
+      "component": "camera",
+      "url": "https://science.nasa.gov/wp-content/uploads/2024/03/pia00609-1e7c7c.jpg?w=640",
+      "http": 200,
+      "type": "image/jpeg",
+      "ok": true,
+      "note": "HTTP check only, not browser decoding"
+    },
+    {
+      "component": "roboticArm",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/8/8782_mars-rover-pathfinder-sol14_S0050J-full2.gif",
+      "http": 200,
+      "type": "image/gif",
+      "ok": true,
+      "note": "HTTP check only, not browser decoding"
+    }
+  ]
+}

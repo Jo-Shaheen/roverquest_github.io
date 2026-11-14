@@ -1,0 +1,27 @@
+{
+  "name": "roverquest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RoverQuest: Beyond the Silent Machines — NASA Space Apps Cairo 2026 educational space hardware investigation game",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "node tools/check.mjs",
+    "test:e2e": "playwright test",
+    "sync:docs": "node tools/sync-docs.mjs",
+    "build:release": "node tools/build-release.mjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.65.0"
+  },
+  "author": "Team Explorers",
+  "contributors": [
+    "Yussif Amr Mohammed Shaheen",
+    "Kerillos Milad",
+    "Karim Amr Mohamed Said",
+    "Ammar Abdelraof Amin Abdelrahman",
+    "Bishoy Saber",
+    "Mazen Maher Mohamed"
+  ],
+  "aiAssistance": "Code, original illustrations and documentation were written with AI assistance (Claude, Anthropic) and reviewed by Team Explorers. See docs/AI_USE_DISCLOSURE.md."
+}

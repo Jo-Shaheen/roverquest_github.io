@@ -1,0 +1,635 @@
+{
+  "version": 3,
+  "note": "Status ladder: unresolved → source_verified (ID/title/credit checked on a NASA page) → image_url_tested (loaded successfully in a browser) → locally_acquired (downloaded into assets/ by tools/download_photos.py). category: overview | hardware (what the object looks like) | evidence (what an instrument observed). Rejected earlier candidate: PIA05276. Sojourner items were rebuilt from the NASA Science Mars Pathfinder page only.",
+  "items": [
+    {
+      "mission": "Sojourner",
+      "component": "overview",
+      "status": "locally_acquired",
+      "nasaId": "",
+      "title": "The \"presidential\" panorama from the Pathfinder lander",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "A wide panorama of the rocky Mars Pathfinder landing site, taken by the lander.",
+      "usage": "About 100 camera frames were stitched into this one view of the landing site.",
+      "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+      "image_remote": "https://science.nasa.gov/wp-content/uploads/2024/03/mars-pathfinder-presidential-panorama-lg.jpg?w=2048",
+      "research": [],
+      "verified": "Image and caption taken from the NASA Science Mars Pathfinder page.",
+      "category": "overview",
+      "image": "assets/hardware/sojourner/overview-nasa.jpg"
+    },
+    {
+      "mission": "Sojourner",
+      "component": "landing",
+      "status": "locally_acquired",
+      "nasaId": "",
+      "title": "Testing Pathfinder's giant airbags",
+      "credit": "NASA (as shown on the Mars Pathfinder page)",
+      "alt": "Two engineers next to a giant airbag made of many large fabric balloons joined together.",
+      "usage": "Engineers tested the huge airbags that cushioned Pathfinder before it hit the surface of Mars.",
+      "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+      "image_remote": "https://science.nasa.gov/wp-content/uploads/2024/08/5277460495-c6d046d5a9-o.jpg?w=1536",
+      "research": [],
+      "verified": "Image and caption taken from the NASA Science Mars Pathfinder page.",
+      "category": "overview",
+      "image": "assets/hardware/sojourner/landing-nasa.jpg"
+    },
+    {
+      "mission": "Sojourner",
+      "component": "wheels",
+      "status": "locally_acquired",
+      "nasaId": "",
+      "title": "Sojourner on the Martian surface (sol 2)",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "A mosaic of eight images showing the newly deployed Sojourner rover sitting on the surface of Mars.",
+      "usage": "Eight-image mosaic from the late afternoon of sol 2, showing the newly deployed rover.",
+      "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+      "image_remote": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/p/i/a/0/PIA01551-1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "research": [],
+      "verified": "Image and caption taken from the NASA Science Mars Pathfinder page.",
+      "category": "hardware",
+      "image": "assets/hardware/sojourner/wheels-nasa.jpg"
+    },
+    {
+      "mission": "Sojourner",
+      "component": "solarPanels",
+      "status": "locally_acquired",
+      "nasaId": "",
+      "title": "Pathfinder and Sojourner with airbags deflated",
+      "credit": "NASA (as shown on the Mars Pathfinder page)",
+      "alt": "The Pathfinder lander and the small Sojourner rover on Mars, with the airbags deflated.",
+      "usage": "Shows how small the rover is next to the lander.",
+      "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+      "image_remote": "https://science.nasa.gov/wp-content/uploads/2017/12/pia00621-pathfinder-and-sojourner-with-airbags-deflated.jpg?w=2048",
+      "research": [],
+      "verified": "Image and caption taken from the NASA Science Mars Pathfinder page.",
+      "category": "hardware",
+      "image": "assets/hardware/sojourner/solarPanels-nasa.jpg"
+    },
+    {
+      "mission": "Sojourner",
+      "component": "camera",
+      "status": "locally_acquired",
+      "nasaId": "",
+      "title": "Large boulders seen by the lander camera",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "A rocky, rust-coloured landscape with three large boulders in the middle and a rust-coloured sky.",
+      "usage": "Pictures taken by the Imager for Mars Pathfinder (IMP) lander camera on July 4, 1997, at Ares Vallis.",
+      "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+      "image_remote": "https://science.nasa.gov/wp-content/uploads/2024/03/pia00609-1e7c7c.jpg?w=640",
+      "research": [],
+      "verified": "Image and caption taken from the NASA Science Mars Pathfinder page.",
+      "category": "evidence",
+      "image": "assets/hardware/sojourner/camera-nasa.jpg"
+    },
+    {
+      "mission": "Sojourner",
+      "component": "roboticArm",
+      "status": "locally_acquired",
+      "nasaId": "",
+      "title": "Sojourner deploying its APXS (animation)",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "An animated image of the Mars Pathfinder rover deploying its Alpha Proton X-ray Spectrometer.",
+      "usage": "Animated NASA image of the rover deploying its Alpha Proton X-Ray Spectrometer (APXS).",
+      "source": "https://science.nasa.gov/mission/mars-pathfinder/",
+      "image_remote": "https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/8/8782_mars-rover-pathfinder-sol14_S0050J-full2.gif",
+      "research": [],
+      "verified": "Image and caption taken from the NASA Science Mars Pathfinder page.",
+      "category": "hardware",
+      "image": "assets/hardware/sojourner/roboticArm-nasa.gif"
+    },
+    {
+      "mission": "Viking 1 Lander",
+      "component": "overview",
+      "status": "locally_acquired",
+      "image": "assets/hardware/viking-1-lander/overview-PIA03165.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia03165/",
+      "nasaId": "PIA03165",
+      "title": "Afternoon on Chryse Planitia (Viking 1 Overview)",
+      "credit": "NASA/JPL",
+      "alt": "Wide panoramic photograph of Chryse Planitia showing Viking 1 lander structure and Martian terrain.",
+      "usage": "Panoramic overview of the Viking 1 landing site on Chryse Planitia.",
+      "research": [
+        {
+          "label": "Photojournal: Viking Lander 1 images",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Viking%2BLander%2B1"
+        }
+      ],
+      "image_remote": null,
+      "date": null,
+      "verified": null,
+      "category": "hardware"
+    },
+    {
+      "mission": "Viking 1 Lander",
+      "component": "roboticArm",
+      "status": "locally_acquired",
+      "image": "assets/hardware/viking-1-lander/roboticArm-PIA00395.jpg",
+      "source": "https://science.nasa.gov/photojournal/the-collector-head-of-viking-lander-1s-surface-sampler/",
+      "nasaId": "PIA00395",
+      "title": "The Collector Head Of Viking Lander 1's Surface Sampler",
+      "credit": "NASA/JPL",
+      "alt": "Close view of the Viking 1 surface sampler collector head holding Martian soil bound for the gas chromatograph mass spectrometer.",
+      "usage": "The real sampler head holding soil destined for the GCMS.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Viking lander surface sampler arm",
+          "url": "https://images.nasa.gov/search?q=Viking%20lander%20surface%20sampler%20arm"
+        }
+      ],
+      "image_remote": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia00/pia00395/PIA00395.jpg",
+      "date": "1996-12-12 (catalog date; scooped 3 Aug 1976 per caption)",
+      "verified": "Title, credit and caption confirmed on the NASA page; image URL taken from that page.",
+      "category": "hardware"
+    },
+    {
+      "mission": "Viking 1 Lander",
+      "component": "instrument",
+      "status": "locally_acquired",
+      "image": "assets/hardware/viking-1-lander/instrument-PIA00569.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia00569/",
+      "nasaId": "PIA00569",
+      "title": "Viking 1 Meteorology & GCMS Sampling",
+      "credit": "NASA/JPL",
+      "alt": "Viking 1 deck instruments including the sample distribution assembly and GCMS.",
+      "usage": "Viking 1 deck view showing GCMS sample processing inlets and meteorology boom.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Viking lander GCMS gas chromatograph mass spectrometer",
+          "url": "https://images.nasa.gov/search?q=Viking%20lander%20GCMS%20gas%20chromatograph%20mass%20spectrometer"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Viking 1 Lander",
+      "component": "solarPanels",
+      "status": "locally_acquired",
+      "image": "assets/hardware/viking-1-lander/solarPanels-PIA00569.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia00569/",
+      "nasaId": "PIA00569",
+      "title": "Viking 1 SNAP-19 Radioisotope Thermoelectric Generators (RTG)",
+      "credit": "NASA/JPL",
+      "alt": "Viking 1 lander deck on Mars showing the RTG nuclear power housings and instruments.",
+      "usage": "Real photo of Viking 1 on Mars showing the RTG power enclosures on the lander deck.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Viking lander RTG SNAP-19",
+          "url": "https://images.nasa.gov/search?q=Viking%20lander%20RTG%20SNAP-19"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Viking 1 Lander",
+      "component": "camera",
+      "status": "locally_acquired",
+      "image": "assets/hardware/viking-1-lander/camera-PIA03166.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia03166/",
+      "nasaId": "PIA03166",
+      "title": "Viking 1 Facsimile Camera Scan",
+      "credit": "NASA/JPL",
+      "alt": "Detailed facsimile camera mosaic of Martian rocks and the Viking lander footpad.",
+      "usage": "High-resolution facsimile camera scan of the Martian surface and lander footpad.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Viking lander facsimile camera",
+          "url": "https://images.nasa.gov/search?q=Viking%20lander%20facsimile%20camera"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Spirit Rover",
+      "component": "overview",
+      "status": "locally_acquired",
+      "image": "assets/hardware/spirit-rover/overview-PIA05040.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia05040/",
+      "nasaId": "PIA05040",
+      "title": "Spirit Stretches Out on Mars",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Hazcam photo of Spirit rover extending its suspension and wheels on Mars.",
+      "usage": "Overview of Spirit on its lander base as it unfolds its body on Mars.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Spirit rover Mars Exploration Rover",
+          "url": "https://images.nasa.gov/search?q=Spirit%20rover%20Mars%20Exploration%20Rover"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Spirit Rover",
+      "component": "roboticArm",
+      "status": "locally_acquired",
+      "image": "assets/hardware/spirit-rover/roboticArm-PIA05459.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia05459/",
+      "nasaId": "PIA05459",
+      "title": "Spirit's Instrument Deployment Device at Bonneville",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Spirit's 5-joint robotic arm deployed against a rock at Gusev Crater.",
+      "usage": "Real photo of Spirit's robotic arm placing tools against Martian rock.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Rock Abrasion Tool RAT Mars Exploration Rover",
+          "url": "https://images.nasa.gov/search?q=Rock%20Abrasion%20Tool%20RAT%20Mars%20Exploration%20Rover"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Spirit Rover",
+      "component": "camera",
+      "status": "locally_acquired",
+      "image": "assets/hardware/spirit-rover/camera-PIA05208.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia05208/",
+      "nasaId": "PIA05208",
+      "title": "Pancam Stereo Mast Survey of Gusev Crater",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Color panoramic landscape of Gusev Crater taken from Spirit's Pancam mast.",
+      "usage": "Color panorama taken through Spirit's Pancam stereo mast filters.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Mars Exploration Rover Pancam mast",
+          "url": "https://images.nasa.gov/search?q=Mars%20Exploration%20Rover%20Pancam%20mast"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Spirit Rover",
+      "component": "wheels",
+      "status": "locally_acquired",
+      "image": "assets/hardware/spirit-rover/wheels-PIA12312.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia12312/",
+      "nasaId": "PIA12312",
+      "title": "Spirit's Six-Wheel Mobility Linkage",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Spirit rover wheels and rocker-bogie frame resting in the loose soil of Mars.",
+      "usage": "Real photo of Spirit's wheel assemblies and tracks in the Martian soil.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Mars Exploration Rover mobility wheels",
+          "url": "https://images.nasa.gov/search?q=Mars%20Exploration%20Rover%20mobility%20wheels"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Spirit Rover",
+      "component": "solarPanels",
+      "status": "locally_acquired",
+      "image": "assets/hardware/spirit-rover/solarPanels-PIA05576.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia05576/",
+      "nasaId": "PIA05576",
+      "title": "Spirit Solar Array Wing Looking at Bonneville Crater",
+      "credit": "NASA/JPL-Caltech/Cornell",
+      "alt": "Spirit rover's triple-junction solar panels angled toward the Martian sun.",
+      "usage": "Pancam view across Spirit's clean solar panels toward Bonneville Crater.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Mars Exploration Rover solar array",
+          "url": "https://images.nasa.gov/search?q=Mars%20Exploration%20Rover%20solar%20array"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "InSight Lander",
+      "component": "overview",
+      "status": "locally_acquired",
+      "image": "assets/hardware/insight/overview-PIA23203.jpg",
+      "source": "https://pds-rings.seti.org:443/press_releases/pages/PIA23xxx/PIA23203.html",
+      "nasaId": "PIA23203",
+      "title": "InSight's Dusty Selfie",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Selfie mosaic of the InSight lander on Mars with its two round solar arrays, deck instruments and a thin layer of dust.",
+      "usage": "Real selfie showing the deck, arm-placed instruments and solar arrays.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: InSight lander",
+          "url": "https://images.nasa.gov/search?q=InSight%20lander"
+        }
+      ],
+      "image_remote": "https://pds-rings.seti.org/press_releases/medium/PIA23xxx/PIA23203_med.jpg",
+      "date": "2019-05-06",
+      "verified": "Title, date, credit and caption confirmed; image URL taken from the page.",
+      "category": "overview"
+    },
+    {
+      "mission": "InSight Lander",
+      "component": "instrument",
+      "status": "locally_acquired",
+      "image": "assets/hardware/insight/instrument-PIA23177.jpg",
+      "source": "https://science.nasa.gov/photojournal/insights-seismometer-on-the-martian-surface",
+      "nasaId": "PIA23177",
+      "title": "InSight's Seismometer on the Martian Surface",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "InSight's SEIS seismometer sitting on the Martian ground inside its dome-shaped wind and thermal shield.",
+      "usage": "Real photo of SEIS after the arm placed it on the ground.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: InSight SEIS seismometer",
+          "url": "https://images.nasa.gov/search?q=InSight%20SEIS%20seismometer"
+        }
+      ],
+      "image_remote": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia23/pia23177/PIA23177.jpg",
+      "date": "2019 (catalog title confirmed by search listing)",
+      "verified": "Title confirmed from NASA search listing only; credit assumed standard NASA/JPL-Caltech — re-check on page. Image URL follows NASA asset pattern, not browser-tested.",
+      "category": "hardware"
+    },
+    {
+      "mission": "InSight Lander",
+      "component": "roboticArm",
+      "status": "locally_acquired",
+      "image": "assets/hardware/insight/roboticArm-PIA23073.jpg",
+      "source": "https://science.nasa.gov/photojournal/insights-arm-lifts-the-seismometer/",
+      "nasaId": "PIA23073",
+      "title": "InSight's Arm Lifts the Seismometer",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Instrument Deployment Arm of InSight lifting the SEIS seismometer off the deck.",
+      "usage": "Real photo of InSight's Instrument Deployment Arm in action on Mars.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: InSight Instrument Deployment Arm",
+          "url": "https://images.nasa.gov/search?q=InSight%20Instrument%20Deployment%20Arm"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "InSight Lander",
+      "component": "camera",
+      "status": "locally_acquired",
+      "image": "assets/hardware/insight/camera-PIA23178.jpg",
+      "source": "https://science.nasa.gov/photojournal/insights-heat-probe-on-the-martian-surface/",
+      "nasaId": "PIA23178",
+      "title": "InSight's Heat Probe on the Martian Surface",
+      "credit": "NASA/JPL-Caltech/DLR",
+      "alt": "The Heat Flow and Physical Properties Package (HP3) 'Mole' sitting on the surface of Mars.",
+      "usage": "Real photo of the HP3 mole after deployment by the robotic arm.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: InSight HP3 mole RISE",
+          "url": "https://images.nasa.gov/search?q=InSight%20HP3%20mole%20RISE"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "InSight Lander",
+      "component": "solarPanels",
+      "status": "locally_acquired",
+      "image": "assets/hardware/insight/solarPanels-PIA22571.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia22571/",
+      "nasaId": "PIA22571",
+      "title": "InSight UltraFlex Circular Solar Arrays",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "InSight lander with both circular UltraFlex solar panels fully opened.",
+      "usage": "Real photo of InSight's 2.15-meter circular UltraFlex solar arrays deployed.",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: InSight lander solar array",
+          "url": "https://images.nasa.gov/search?q=InSight%20lander%20solar%20array"
+        }
+      ],
+      "category": "hardware"
+    },
+    {
+      "mission": "Viking 1 Lander",
+      "component": "evidence_trench",
+      "status": "locally_acquired",
+      "image": "assets/hardware/viking-1-lander/evidence_trench-PIA00389.jpg",
+      "source": "https://www.jpl.nasa.gov/images/pia00389-trench-excavated-by-viking-1-surface-sampler/",
+      "nasaId": "PIA00389",
+      "title": "Trench Excavated By Viking 1 Surface Sampler",
+      "credit": "NASA/JPL",
+      "alt": "Viking 1 image of a shallow trench in reddish Martian soil dug by the surface sampler collector head.",
+      "usage": "Scientific evidence: a real trench dug by the sampler (not a photo of the whole lander).",
+      "research": [
+        {
+          "label": "NASA Image and Video Library search: Viking 1 lander",
+          "url": "https://images.nasa.gov/search?q=Viking%201%20lander"
+        }
+      ],
+      "image_remote": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA00389.jpg",
+      "date": "1996-12-12 (catalog date)",
+      "verified": "Title, credit and caption confirmed on the JPL page; image URL taken from that page.",
+      "category": "evidence"
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "overview",
+      "category": "overview",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/overview-PIA17759.jpg",
+      "source": "https://www.jpl.nasa.gov/images/pia17759-self-portrait-by-opportunity-mars-rover-in-january-2014/",
+      "nasaId": "PIA17759",
+      "title": "Self-Portrait by Opportunity Mars Rover in January 2014",
+      "credit": "NASA/JPL-Caltech/Cornell Univ./Arizona State Univ.",
+      "alt": "Pancam self-portrait mosaic of the Opportunity rover on Mars after wind cleared dust from its solar panels.",
+      "usage": "Real overview of the whole rover. The Pancam mast is not in the frame (only its shadow).",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA17759.jpg",
+      "date": "2014-01-23",
+      "verified": "Page opened; title/credit/caption confirmed. Image URL taken from the page but not browser-tested."
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "solarPanels",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/solarPanels-PIA17759.jpg",
+      "source": "https://www.jpl.nasa.gov/images/pia17759-self-portrait-by-opportunity-mars-rover-in-january-2014/",
+      "nasaId": "PIA17759",
+      "title": "Self-Portrait by Opportunity Mars Rover in January 2014",
+      "credit": "NASA/JPL-Caltech/Cornell Univ./Arizona State Univ.",
+      "alt": "Opportunity's solar panels shortly after wind cleared some dust from them.",
+      "usage": "The solar panels shortly after wind cleared some dust (per the caption).",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA17759.jpg",
+      "date": "2014-01-23",
+      "verified": "Page opened; title/credit/caption confirmed. Image URL taken from the page but not browser-tested."
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "mi",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/mi-PIA05195.jpg",
+      "source": "https://science.nasa.gov/photojournal/microscope-on-mars/",
+      "nasaId": "PIA05195",
+      "title": "Microscope on Mars",
+      "credit": "NASA/JPL",
+      "alt": "Pancam image of Opportunity's IDD turret at Meridiani Planum showing the Microscopic Imager lens assembly in the upper center-right alongside the RAT and APXS.",
+      "usage": "Real Sol 9 Pancam photo of the IDD turret carrying the Microscopic Imager (MI). Visually verified: the turret shows the MI optical bore (upper center-right) alongside the RAT (left) and APXS (right), explaining why NASA's webpage alt text named the RAT while the caption named the Microscopic Imager.",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia05/pia05195/PIA05195.jpg",
+      "date": "2004 (sol 9)",
+      "verified": "Direct visual and source verification complete: turret holds MI, RAT, and APXS together; MI lens assembly is visible in upper center-right."
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "moss",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/moss-PIA05197.jpg",
+      "source": "https://science.nasa.gov/photojournal/moessbauer-on-mars",
+      "nasaId": "PIA05197",
+      "title": "Moessbauer on Mars",
+      "credit": "NASA/JPL",
+      "alt": "Pancam image of the Mössbauer spectrometer (circular device in the centre) on Opportunity's arm.",
+      "usage": "Real photo of the Mössbauer spectrometer on the arm.",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia05/pia05197/PIA05197.jpg",
+      "date": "2004 (sol 9)",
+      "verified": "Page opened; title/credit/caption confirmed. Image URL taken from the page but not browser-tested."
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "pancam",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/pancam-nasa.jpg",
+      "source": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-instruments",
+      "nasaId": null,
+      "title": "Pancam close-up (NASA MER science instruments page)",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Close-up of a Mars Exploration Rover Pancam camera.",
+      "usage": "Instrument close-up from NASA's official instruments page (no PIA number listed).",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://science.nasa.gov/wp-content/uploads/2024/03/pancam1-400.jpg",
+      "date": null,
+      "verified": "Taken from NASA's MER instruments page; page text confirms it is a Pancam close-up. Not browser-tested."
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "miniTes",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/miniTes-nasa.jpg",
+      "source": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-instruments",
+      "nasaId": null,
+      "title": "Mini-TES close-up (NASA MER science instruments page)",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Close-up of the Mini-TES instrument, about the size of a toaster oven.",
+      "usage": "Instrument close-up from NASA's official instruments page.",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://science.nasa.gov/wp-content/uploads/2024/03/minites1-400.jpg",
+      "date": null,
+      "verified": "As above."
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "rat",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/rat-nasa.jpg",
+      "source": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-instruments",
+      "nasaId": null,
+      "title": "Rock Abrasion Tool (NASA MER science instruments page)",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "The Rock Abrasion Tool, a drill-like attachment on the rover's robotic arm.",
+      "usage": "RAT image from NASA's official instruments page.",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://science.nasa.gov/wp-content/uploads/2024/03/rat-2.jpg",
+      "date": null,
+      "verified": "As above."
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "idd",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/idd-PIA16929.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia16929/",
+      "nasaId": "PIA16929",
+      "title": "Opportunity's IDD Turret & RAT at Esperance",
+      "credit": "NASA/JPL-Caltech/Cornell/ASU",
+      "alt": "Opportunity's IDD turret tools positioned directly over a target rock.",
+      "usage": "Real photo of Opportunity's robotic arm turret examining rock Esperance.",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ]
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "wheels",
+      "category": "hardware",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/wheels-PIA14129.jpg",
+      "source": "https://science.nasa.gov/photojournal/pia14129/",
+      "nasaId": "PIA14129",
+      "title": "Opportunity Rocker-Bogie Wheel Tracks",
+      "credit": "NASA/JPL-Caltech",
+      "alt": "Opportunity's wheels on the sandy Martian bedrock, showing clean wheel tracks.",
+      "usage": "Hazard avoidance camera photo showing Opportunity's wheels and patterned tracks.",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ]
+    },
+    {
+      "mission": "Opportunity Rover",
+      "component": "evidence_blueberries",
+      "category": "evidence",
+      "status": "locally_acquired",
+      "image": "assets/hardware/opportunity-rover/evidence_blueberries-PIA19113.jpg",
+      "source": "https://science.nasa.gov/photojournal/martian-concretions-near-fram-crater",
+      "nasaId": "PIA19113",
+      "title": "Martian Concretions Near Fram Crater",
+      "credit": "NASA/JPL-Caltech/Cornell/USGS",
+      "alt": "Microscopic Imager close-up, about 3 cm across, of small round spherules in Martian soil near Fram Crater.",
+      "usage": "Scientific evidence (what the instrument SAW), not a photo of the instrument. Area shown ~3 cm across.",
+      "research": [
+        {
+          "label": "NASA Photojournal: Opportunity",
+          "url": "https://photojournal.jpl.nasa.gov/spacecraft/Mars%20Exploration%20Rover%20B"
+        }
+      ],
+      "image_remote": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia19/pia19113/PIA19113.jpg",
+      "date": "Opportunity, April 2004 (catalog add 2015-01-27)",
+      "verified": "Title, credit, caption confirmed. Image URL follows the NASA asset pattern; not browser-tested."
+    }
+  ]
+}
